@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm ballesitaa (Santiago)</h1>
 <h3 align="center">A passionate fullstack developer from Alicante, Spain</h3>
 
-- 🔭 I’m currently working on [ShareIt](https://github.com/ballestitaa/shareit)
-- 🖨️ I'm currently working on [EasyPrintService](https://github.com/ballestitaa/EasyPrintService)
+- 🛜 I’m currently working on [ShareIt](https://github.com/ballestitaa/shareit) and 🖨️ [EasyPrintService](https://github.com/ballestitaa/EasyPrintService)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
