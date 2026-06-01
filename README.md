@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ballestitaa</h1>
+<h1 align="center">Hi 👋, I'm ballesitaa (Santiago)</h1>
 <h3 align="center">A passionate fullstack developer from Alicante, Spain</h3>
 
 - 🔭 I’m currently working on [ShareIt](https://github.com/ballestitaa/shareit)
